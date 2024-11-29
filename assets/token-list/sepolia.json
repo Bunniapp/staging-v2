@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Sepolia Ether",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x0000000000000000000000000000000000000000.svg",
+    "website": "https://ethereum.org",
+    "twitter": "https://x.com/ethereum",
+    "color": "rgb(98, 126, 234)",
+    "faucetURL": "https://faucetlink.to/sepolia"
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0x1ef5F52BdBe11Af2377C58ecC914A8c72Ea807cF",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png",
+    "website": "https://ethereum.org",
+    "twitter": "https://x.com/ethereum",
+    "color": "rgb(241, 244, 247)",
+    "faucet": true
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0xB5f214A5a9a12705A2Bc0cA94ddad7f9f425c46b",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x6B175474E89094C44Da98b954EedeAC495271d0F.png",
+    "website": "https://makerdao.com",
+    "twitter": "https://x.com/MakerDAO",
+    "color": "rgb(245, 172, 55)",
+    "faucet": true
+  },
+  {
+    "name": "Tether USD",
+    "address": "0x4EC5374221821F9071A4BD5D15b91050F2Cf6C75",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/mainnet/0xdAC17F958D2ee523a2206206994597C13D831ec7.svg",
+    "website": "https://tether.to",
+    "twitter": "https://x.com/Tether_to",
+    "color": "rgb(39, 161, 122)",
+    "faucet": true
+  },
+  {
+    "name": "USD Coin",
+    "address": "0x67a53a2b9984AF64A2e27b1582bC72406a2317c3",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/mainnet/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.png",
+    "website": "https://www.circle.com",
+    "twitter": "https://x.com/circle",
+    "color": "rgb(39, 116, 202)",
+    "faucet": true
+  },
+  {
+    "name": "Gho Token",
+    "address": "0x51C9b39CE3c0c0ea450674e6D8A5Ec088d44aE17",
+    "symbol": "GHO",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f.svg",
+    "website": "https://gho.xyz",
+    "twitter": "https://x.com/aave",
+    "color": "rgb(172, 141, 241)",
+    "faucet": true
+  },
+  {
+    "name": "Wrapped BTC",
+    "address": "0xDfBBF048075D9db3c34aB34a0843bC16De8c3B3D",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "assets/img/tokens/mainnet/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.png",
+    "website": "https://wbtc.network",
+    "twitter": "https://twitter.com/WrappedBTC",
+    "color": "rgb(240, 145, 65)",
+    "faucet": true
+  },
+  {
+    "name": "Gearbox",
+    "address": "0x1a2d66D21C5D2D1E80D2Ebbe73BDC1F5d8a6c52C",
+    "symbol": "GEAR",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xBa3335588D9403515223F109EdC4eB7269a9Ab5D.png",
+    "website": "https://gearbox.fi",
+    "twitter": "https://x.com/GearboxProtocol",
+    "color": "rgb(244, 18, 154)",
+    "faucet": true
+  },
+  {
+    "name": "Frax",
+    "address": "0x0C37612638b5b4Ca4Ad30c64eAD5Ca836a5430cE",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x853d955aCEf822Db058eb8505911ED77F175b99e.svg",
+    "website": "https://frax.finance",
+    "twitter": "https://x.com/fraxfinance",
+    "color": "rgb(255, 255, 255)",
+    "faucet": true
+  },
+  {
+    "name": "f(x) rUSD",
+    "address": "0xB887d06Bca2F44DE15e10e7a38BB8F99dee42D51",
+    "symbol": "rUSD",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x65D72AA8DA931F047169112fcf34f52DbaAE7D18.svg",
+    "website": "https://fx.aladdin.club",
+    "twitter": "https://x.com/protocol_fx",
+    "color": "rgb(12, 21, 123)",
+    "faucet": true
+  },
+  {
+    "name": "Origin Ether",
+    "address": "0x61dC265c543c5d280A5270f4b10DA8f9FA3ac66E",
+    "symbol": "oETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3.webp",
+    "website": "https://www.originprotocol.com",
+    "twitter": "https://x.com/originprotocol",
+    "color": "rgb(27, 130, 255)",
+    "faucet": true
+  },
+  {
+    "name": "Pirex Ether",
+    "address": "0x83985Dc2c6f241b0301E5c88aD81677931c88760",
+    "symbol": "pxETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x04C154b66CB340F3Ae24111CC767e0184Ed00Cc6.webp",
+    "website": "https://dinero.xyz",
+    "twitter": "https://x.com/dinero_xyz",
+    "color": "rgb(9, 96, 124)",
+    "faucet": true
+  }
+]
