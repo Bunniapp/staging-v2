@@ -47,7 +47,8 @@
     "logoURI": "assets/img/tokens/mainnet/0xdAC17F958D2ee523a2206206994597C13D831ec7.svg",
     "website": "https://tether.to",
     "twitter": "https://twitter.com/Tether_to",
-    "color": "rgb(39, 161, 122)"
+    "color": "rgb(39, 161, 122)",
+    "customABI": "USDT"
   },
   {
     "name": "USD Coin",
