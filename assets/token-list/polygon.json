@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Polygon",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "POL",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/polygon/0x0000000000000000000000000000000000000000.svg",
+    "website": "https://polygon.technology",
+    "twitter": "https://x.com/0xPolygon",
+    "color": "rgb(107, 0, 246)"
+  },
+  {
+    "name": "Wrapped POL",
+    "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+    "symbol": "WPOL",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/polygon/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270.svg",
+    "website": "https://polygon.technology",
+    "twitter": "https://x.com/0xPolygon",
+    "color": "rgb(255, 255, 255)"
+  }
+]
