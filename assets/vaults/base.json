@@ -134,5 +134,69 @@
     "name": "Steakhouse USDA",
     "symbol": "steakUSDA",
     "protocol": "assets/protocols/morpho.json"
+  },
+  {
+    "address": "0x7E46519DAada8968fb89C6Ca754be7E3EE9Cb3Eb",
+    "asset": "0x4200000000000000000000000000000000000006",
+    "decimals": 18,
+    "name": "Aave v3 WETH",
+    "symbol": "waWETH",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x9eE5eE182d170a799558Ae698993877381a8C6b7",
+    "asset": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+    "decimals": 18,
+    "name": "Aave v3 weETH",
+    "symbol": "waweETH",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x1884A081578e87ffb9e973b9fdc17BF61044E3b8",
+    "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "decimals": 6,
+    "name": "Aave v3 USDC",
+    "symbol": "waUSDC",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x7a7b6E7585a0fc93c7b3Cf63E8363A8c2a2F8860",
+    "asset": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+    "decimals": 8,
+    "name": "Aave v3 cbBTC",
+    "symbol": "wacbBTC",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0xBB763A4cA428d363a5E75f41e7223b628df05729",
+    "asset": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+    "decimals": 18,
+    "name": "Aave v3 wstETH",
+    "symbol": "wawstETH",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x4308ED2f9C05803aE00148Ec76B2472a02e44070",
+    "asset": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+    "decimals": 18,
+    "name": "Aave v3 wcbETH",
+    "symbol": "wacbETH",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x165C4daEd544D46dD074e331898da359c67b9769",
+    "asset": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+    "decimals": 6,
+    "name": "Aave v3 USDbC",
+    "symbol": "waUSDbC",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x3184292a06eB48E31b726Fe4DE2b86252b76d589",
+    "asset": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "decimals": 18,
+    "name": "Aave v3 ezETH",
+    "symbol": "waezETH",
+    "protocol": "assets/protocols/aave.json"
   }
 ]

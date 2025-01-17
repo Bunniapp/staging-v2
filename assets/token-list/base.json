@@ -123,5 +123,21 @@
     "logoURI": "assets/img/tokens/base/0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42.webp",
     "website": "https://www.circle.com/eurc",
     "twitter": "https://x.com/circle"
+  },
+  {
+    "name": "USD Base Coin",
+    "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+    "symbol": "USDbC",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/base/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA.svg"
+  },
+  {
+    "name": "Renzo Restaked ETH",
+    "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "symbol": "ezETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xbf5495Efe5DB9ce00f80364C8B423567e58d2110.png",
+    "website": "https://www.renzoprotocol.com",
+    "twitter": "https://x.com/RenzoProtocol"
   }
 ]
