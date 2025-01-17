@@ -139,5 +139,33 @@
     "logoURI": "assets/img/tokens/mainnet/0xbf5495Efe5DB9ce00f80364C8B423567e58d2110.png",
     "website": "https://www.renzoprotocol.com",
     "twitter": "https://x.com/RenzoProtocol"
+  },
+  {
+    "address": "0xB6fe221Fe9EeF5aBa221c348bA20A1Bf5e73624c",
+    "name": "Rocket Pool ETH",
+    "symbol": "rETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xae78736Cd615f374D3085123A210448E74Fc6393.png",
+    "website": "https://rocketpool.net",
+    "twitter": "https://twitter.com/Rocket_Pool",
+    "color": "rgb(255, 111, 48)"
+  },
+  {
+    "name": "Lombard Staked Bitcoin",
+    "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+    "symbol": "LBTC",
+    "decimals": 8,
+    "logoURI": "assets/img/tokens/mainnet/0x8236a87084f8B84306f72007F36F2618A5634494.svg",
+    "website": "https://www.lombard.finance",
+    "twitter": "https://x.com/lombard_finance"
+  },
+  {
+    "name": "Aerodrome",
+    "address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+    "symbol": "AERO",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/base/0x940181a94A35A4569E4529A3CDfB74e38FD98631.svg",
+    "website": "https://aerodrome.finance",
+    "twitter": "https://x.com/AerodromeFi"
   }
 ]

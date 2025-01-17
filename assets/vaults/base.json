@@ -198,5 +198,93 @@
     "name": "Aave v3 ezETH",
     "symbol": "waezETH",
     "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x0A1a3b5f2041F33522C4efc754a7D096f880eE16",
+    "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "decimals": 6,
+    "name": "Euler Base USDC",
+    "symbol": "eUSDC-1",
+    "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0x859160DB5841E5cfB8D3f144C6b3381A85A4b410",
+    "asset": "0x4200000000000000000000000000000000000006",
+    "decimals": 18,
+    "name": "Euler Base WETH",
+    "symbol": "eWETH-1",
+    "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0x882018411Bc4A020A879CEE183441fC9fa5D7f8B",
+    "asset": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+    "decimals": 8,
+    "name": "Euler Base cbBTC",
+    "symbol": "ecbBTC-1",
+    "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0x9ECD9fbbdA32b81dee51AdAed28c5C5039c87117",
+    "asset": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+    "decimals": 6,
+    "name": "Euler Base EURC",
+    "symbol": "eEURC-1",
+    "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0xd4A805261B28f375fc9c3d89EcD2C952Cd130d14",
+    "asset": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+    "decimals": 18,
+    "name": "Euler Base weETH",
+    "symbol": "eweETH-1",
+    "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0x358f25F82644eaBb441d0df4AF8746614fb9ea49",
+    "asset": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+    "decimals": 18,
+    "name": "Euler Base cbETH",
+    "symbol": "ecbETH-1",
+    "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0x7b181d6509DEabfbd1A23aF1E65fD46E89572609",
+    "asset": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+    "decimals": 18,
+    "name": "Euler Base wstETH",
+    "symbol": "ewstETH-1",
+    "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0x3f0d3Fd87A42BDaa3dfCC13ADA42eA922e638a7A",
+    "asset": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+    "decimals": 8,
+    "name": "Euler Base LBTC",
+    "symbol": "eLBTC-1",
+    "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0x5Fe2DE3E565a6a501a4Ec44AAB8664b1D674ac25",
+    "asset": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+    "decimals": 18,
+    "name": "Euler Base AERO",
+    "symbol": "eAERO-1",
+    "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0xa487f940D6f40D7304CD4e62751220f97124BeC9",
+    "asset": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "decimals": 18,
+    "name": "Euler Base ezETH",
+    "symbol": "eezETH-1",
+    "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0x8b70a855B057cA85F38Ebb2a7399D9FE0BDC1046",
+    "asset": "0xB6fe221Fe9EeF5aBa221c348bA20A1Bf5e73624c",
+    "decimals": 18,
+    "name": "Euler Base rETH",
+    "symbol": "erETH-1",
+    "protocol": "assets/protocols/euler.json"
   }
 ]
