@@ -566,5 +566,14 @@
     "logoURI": "assets/img/tokens/mainnet/0x8236a87084f8B84306f72007F36F2618A5634494.svg",
     "website": "https://www.lombard.finance",
     "twitter": "https://x.com/lombard_finance"
+  },
+  {
+    "name": "Morpho Token",
+    "address": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
+    "symbol": "MORPHO",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x58D97B57BB95320F9a05dC918Aef65434969c2B2.png",
+    "website": "https://morpho.org",
+    "twitter": "https://x.com/MorphoLabs"
   }
 ]
