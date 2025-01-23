@@ -998,5 +998,21 @@
     "name": "Staked Dola",
     "symbol": "sDOLA",
     "protocol": "assets/protocols/inverse.json"
+  },
+  {
+    "address": "0x04eD8F283E1aaC133d28004B06Ad9cc90C88b606",
+    "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "decimals": 18,
+    "name": "Aave v3 WETH (Prime Instance)",
+    "symbol": "waWETH",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x7171C5829aD6cFd8E51E66b8151A43174EbD0e65",
+    "asset": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+    "decimals": 18,
+    "name": "Aave v3 wstETH (Prime Instance)",
+    "symbol": "wawstETH",
+    "protocol": "assets/protocols/aave.json"
   }
 ]
