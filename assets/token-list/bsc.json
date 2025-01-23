@@ -1,0 +1,22 @@
+[
+  {
+    "name": "BNB",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "BNB",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/bsc/0x0000000000000000000000000000000000000000.png",
+    "website": "https://www.bnbchain.org",
+    "twitter": "https://x.com/BNBChain",
+    "color": "rgb(240, 185, 11)"
+  },
+  {
+    "name": "Wrapped BNB",
+    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "symbol": "WBNB",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
+    "website": "https://www.bnbchain.org",
+    "twitter": "https://x.com/BNBChain",
+    "color": "rgb(240, 185, 11)"
+  }
+]

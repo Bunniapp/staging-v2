@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Avalanche",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "AVAX",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/avalanche/0x0000000000000000000000000000000000000000.svg",
+    "website": "https://www.avax.network",
+    "twitter": "https://x.com/avax",
+    "color": "rgb(255, 57, 74)"
+  },
+  {
+    "name": "Wrapped AVAX",
+    "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "symbol": "WAVAX",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/avalanche/0x0000000000000000000000000000000000000000.svg",
+    "website": "https://www.avax.network",
+    "twitter": "https://x.com/avax",
+    "color": "rgb(255, 57, 74)"
+  }
+]

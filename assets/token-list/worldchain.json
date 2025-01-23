@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Ether",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x0000000000000000000000000000000000000000.svg",
+    "website": "https://ethereum.org",
+    "twitter": "https://twitter.com/ethereum",
+    "color": "rgb(98, 126, 234)"
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0x4200000000000000000000000000000000000006",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png",
+    "website": "https://ethereum.org",
+    "twitter": "https://twitter.com/ethereum",
+    "color": "rgb(241, 244, 247)"
+  }
+]
