@@ -286,5 +286,21 @@
     "name": "Euler Base rETH",
     "symbol": "erETH-1",
     "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0x0bedb53713ebf4465dc2f485df19bad1ef04403b",
+    "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "decimals": 6,
+    "name": "Ionic USD Coin Vault",
+    "symbol": "ivUSDC",
+    "protocol": "assets/protocols/ionic.json"
+  },
+  {
+    "address": "0xD0B2406421470db765F80Bc85Bb253460FAeE5EF",
+    "asset": "0x4200000000000000000000000000000000000006",
+    "decimals": 18,
+    "name": "Ionic Wrapped Ether Vault",
+    "symbol": "ivWETH",
+    "protocol": "assets/protocols/ionic.json"
   }
 ]
