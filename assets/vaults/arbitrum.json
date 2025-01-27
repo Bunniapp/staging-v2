@@ -102,5 +102,13 @@
     "name": "Real Yield USD",
     "symbol": "RYUSD",
     "protocol": "assets/protocols/sturdy.json"
+  },
+  {
+    "address": "0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92",
+    "asset": "0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef",
+    "decimals": 18,
+    "name": "Staked USDX",
+    "symbol": "sUSDX",
+    "protocol": "assets/protocols/usdx.json"
   }
 ]

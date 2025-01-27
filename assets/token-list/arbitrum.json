@@ -130,5 +130,15 @@
     "logoURI": "assets/img/tokens/arbitrum/0x912CE59144191C1204E64559FE8253a0e49E6548.svg",
     "website": "https://arbitrum.io",
     "twitter": "https://twitter.com/arbitrum"
+  },
+  {
+    "address": "0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef",
+    "name": "USDX",
+    "symbol": "USDX",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/bsc/0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef.svg",
+    "website": "https://usdx.money",
+    "twitter": "https://x.com/usdx_money",
+    "color": "rgb(31, 122, 86)"
   }
 ]

@@ -197,6 +197,15 @@
     "color": "rgb(254, 152, 84)"
   },
   {
+    "name": "Savings USDS",
+    "address": "0x5875eEE11Cf8398102FdAd704C9E96607675467a",
+    "symbol": "sUSDS",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/base/0x5875eEE11Cf8398102FdAd704C9E96607675467a.svg",
+    "website": "https://sky.money",
+    "twitter": "https://x.com/SkyEcosystem"
+  },
+  {
     "name": "USDz",
     "address": "0x04D5ddf5f3a8939889F11E97f8c4BB48317F1938",
     "symbol": "USDz",
