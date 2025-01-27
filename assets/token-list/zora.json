@@ -18,5 +18,15 @@
     "website": "https://ethereum.org",
     "twitter": "https://twitter.com/ethereum",
     "color": "rgb(241, 244, 247)"
+  },
+  {
+    "name": "Bridged USDC",
+    "address": "0xCccCCccc7021b32EBb4e8C08314bD62F7c653EC4",
+    "symbol": "USDzC",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/mainnet/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.png",
+    "website": "https://www.circle.com",
+    "twitter": "https://twitter.com/circle",
+    "color": "rgb(39, 116, 202)"
   }
 ]
