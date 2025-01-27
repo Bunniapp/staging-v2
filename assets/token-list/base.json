@@ -195,5 +195,54 @@
     "website": "https://sky.money",
     "twitter": "https://x.com/SkyEcosystem",
     "color": "rgb(254, 152, 84)"
+  },
+  {
+    "name": "USDz",
+    "address": "0x04D5ddf5f3a8939889F11E97f8c4BB48317F1938",
+    "symbol": "USDz",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/base/0x04D5ddf5f3a8939889F11E97f8c4BB48317F1938.svg",
+    "website": "https://anzen.finance",
+    "twitter": "https://x.com/anzenfinance",
+    "color": "rgb(49, 108, 255)"
+  },
+  {
+    "name": "Cygnus Global USD",
+    "address": "0xCa72827a3D211CfD8F6b00Ac98824872b72CAb49",
+    "symbol": "cgUSD",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/base/0xCa72827a3D211CfD8F6b00Ac98824872b72CAb49.svg",
+    "website": "https://www.cygnus.finance",
+    "twitter": "https://x.com/CygnusFi",
+    "color": "rgb(3, 255, 102)"
+  },
+  {
+    "name": "Dola USD Stablecoin",
+    "address": "0x4621b7A9c75199271F773Ebd9A499dbd165c3191",
+    "symbol": "DOLA",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x865377367054516e17014CcdED1e7d814EDC9ce4.webp",
+    "website": "https://www.inverse.finance",
+    "twitter": "https://twitter.com/InverseFinance",
+    "color": "rgb(23, 32, 93)"
+  },
+  {
+    "name": "USD+",
+    "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+    "symbol": "USD+",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/base/0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376.svg",
+    "website": "https://overnight.fi",
+    "twitter": "https://x.com/overnight_fi"
+  },
+  {
+    "name": "Resolv USD",
+    "address": "0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9",
+    "symbol": "USR",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110.svg",
+    "website": "https://resolv.xyz",
+    "twitter": "https://x.com/ResolvLabs",
+    "color": "rgb(55, 118, 154)"
   }
 ]
