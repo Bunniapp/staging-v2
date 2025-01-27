@@ -136,6 +136,38 @@
     "protocol": "assets/protocols/morpho.json"
   },
   {
+    "address": "0x23479229e52Ab6aaD312D0B03DF9F33B46753B5e",
+    "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "decimals": 18,
+    "name": "Ionic Ecosystem USDC",
+    "symbol": "ionicUSDC",
+    "protocol": "assets/protocols/morpho.json"
+  },
+  {
+    "address": "0x616a4E1db48e22028f6bbf20444Cd3b8e3273738",
+    "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "decimals": 18,
+    "name": "Seamless USDC Vault",
+    "symbol": "smUSDC",
+    "protocol": "assets/protocols/morpho.json"
+  },
+  {
+    "address": "0x5A32099837D89E3a794a44fb131CBbAD41f87a8C",
+    "asset": "0x4200000000000000000000000000000000000006",
+    "decimals": 18,
+    "name": "Ionic Ecosystem WETH",
+    "symbol": "ionicWETH",
+    "protocol": "assets/protocols/morpho.json"
+  },
+  {
+    "address": "0x0D05e6ec0A10f9fFE9229EAA785c11606a1d13Fb",
+    "asset": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+    "decimals": 18,
+    "name": "Gauntlet LBTC Core",
+    "symbol": "gtLBTCc",
+    "protocol": "assets/protocols/morpho.json"
+  },
+  {
     "address": "0x7E46519DAada8968fb89C6Ca754be7E3EE9Cb3Eb",
     "asset": "0x4200000000000000000000000000000000000006",
     "decimals": 18,
