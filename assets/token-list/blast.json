@@ -18,5 +18,19 @@
     "website": "https://ethereum.org",
     "twitter": "https://twitter.com/ethereum",
     "color": "rgb(241, 244, 247)"
+  },
+  {
+    "name": "USDB",
+    "address": "0x4300000000000000000000000000000000000003",
+    "symbol": "USDB",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/blast/0x4300000000000000000000000000000000000003.png"
+  },
+  {
+    "name": "Blast",
+    "address": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
+    "symbol": "BLAST",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/blast/0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad.png"
   }
 ]
