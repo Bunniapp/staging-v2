@@ -110,5 +110,45 @@
     "name": "Staked USDX",
     "symbol": "sUSDX",
     "protocol": "assets/protocols/usdx.json"
+  },
+  {
+    "address": "0x04419d3509f13054f60d253E0c79491d9E683399",
+    "asset": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "decimals": 18,
+    "name": "Main WETH v3",
+    "symbol": "dWETHV3",
+    "protocol": "assets/protocols/gearbox.json"
+  },
+  {
+    "address": "0x890A69EF363C9c7BdD5E36eb95Ceb569F63ACbF6",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "decimals": 6,
+    "name": "Main USDC v3",
+    "symbol": "dUSDCV3",
+    "protocol": "assets/protocols/gearbox.json"
+  },
+  {
+    "address": "0xa76c604145D7394DEc36C49Af494C144Ff327861",
+    "asset": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+    "decimals": 6,
+    "name": "Main USDC.e v3",
+    "symbol": "dUSDCV3",
+    "protocol": "assets/protocols/gearbox.json"
+  },
+  {
+    "address": "0xC47bB288178Ea40bF520a91826a3DEE9e0DbFA4C",
+    "asset": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "decimals": 18,
+    "name": "Real Yield ETH",
+    "symbol": "RYETH",
+    "protocol": "assets/protocols/sommelier.json"
+  },
+  {
+    "address": "0x392B1E6905bb8449d26af701Cdea6Ff47bF6e5A8",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "decimals": 6,
+    "name": "Real Yield USD",
+    "symbol": "RYUSD",
+    "protocol": "assets/protocols/sommelier.json"
   }
 ]

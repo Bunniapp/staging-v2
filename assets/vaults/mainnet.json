@@ -96,6 +96,22 @@
     "protocol": "assets/protocols/gearbox.json"
   },
   {
+    "address": "0x31426271449F60d37Cc5C9AEf7bD12aF3BdC7A94",
+    "asset": "0x865377367054516e17014CcdED1e7d814EDC9ce4",
+    "decimals": 18,
+    "name": "Trade DOLA v3",
+    "symbol": "dDOLAV3",
+    "protocol": "assets/protocols/gearbox.json"
+  },
+  {
+    "address": "0x7354EC6E852108411e681D13E11185c3a2567981",
+    "asset": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+    "decimals": 18,
+    "name": "Trade tBTC v3",
+    "symbol": "dtBTCV3",
+    "protocol": "assets/protocols/gearbox.json"
+  },
+  {
     "address": "0x794F6B13FBd7EB7ef10d1ED205c9a416910207Ff",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
