@@ -540,7 +540,7 @@
   },
   {
     "name": "Bunni",
-    "address": "",
+    "address": "0x000000C396558ffbAB5Ea628f39658Bdf61345b3",
     "symbol": "BUNNI",
     "decimals": 18,
     "logoURI": "assets/img/tokens/bunni.png",
@@ -550,7 +550,7 @@
   },
   {
     "name": "Bunni Voting Escrow",
-    "address": "",
+    "address": "0x00000042877f4a1cC0693383ebdAc7c0e0A1bf77",
     "symbol": "veBUNNI",
     "decimals": 18,
     "logoURI": "assets/img/tokens/vebunni.png",
