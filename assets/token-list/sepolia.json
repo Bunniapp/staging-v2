@@ -129,25 +129,5 @@
     "twitter": "https://x.com/dinero_xyz",
     "color": "rgb(9, 96, 124)",
     "faucet": true
-  },
-  {
-    "name": "Bunni",
-    "address": "0x8a39d4a731b85B5Ad3225f81857c6932bBdc8646",
-    "symbol": "BUNNI",
-    "decimals": 18,
-    "logoURI": "assets/img/tokens/bunni.png",
-    "website": "https://bunni.xyz",
-    "twitter": "https://x.com/bunni_xyz",
-    "color": "rgb(99, 102, 241)"
-  },
-  {
-    "name": "Bunni Voting Escrow",
-    "address": "0x7E0a10aAB1178425DEF4D2e7A8AA6f25006f8d22",
-    "symbol": "veBUNNI",
-    "decimals": 18,
-    "logoURI": "assets/img/tokens/bunni.png",
-    "website": "https://bunni.xyz",
-    "twitter": "https://x.com/bunni_xyz",
-    "color": "rgb(99, 102, 241)"
   }
 ]
