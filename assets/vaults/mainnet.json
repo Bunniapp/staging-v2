@@ -1000,14 +1000,6 @@
     "protocol": "assets/protocols/morpho.json"
   },
   {
-    "address": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
-    "asset": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
-    "decimals": 18,
-    "name": "Staked USDe",
-    "symbol": "sUSDe",
-    "protocol": "assets/protocols/ethena.json"
-  },
-  {
     "address": "0xb45ad160634c528Cc3D2926d9807104FA3157305",
     "asset": "0x865377367054516e17014CcdED1e7d814EDC9ce4",
     "decimals": 18,
