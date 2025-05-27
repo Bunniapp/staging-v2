@@ -1,0 +1,218 @@
+[
+  {
+    "address": "0xF59d43A9bacB8BFa95fB2A013cd163c84c2b2091",
+    "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "decimals": 18,
+    "name": "Aave v3 FRAX",
+    "symbol": "waFRAX",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x1c0aca7cEc87Ce862638BC0DD8D8fa874d8Ad95F",
+    "asset": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+    "decimals": 6,
+    "name": "Aave v3 USDC.e",
+    "symbol": "waUSDC",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x85870b56E2C96e444ab29DEC3A7c13f1F05c2B01",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "decimals": 6,
+    "name": "Aave v3 USDC",
+    "symbol": "waUSDC",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x4253cd2db44A7c03143eBb057030cf3aAF2Ee232",
+    "asset": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "decimals": 6,
+    "name": "Aave v3 USDT",
+    "symbol": "waUSDT",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0xa8426922461E7D6B0B94A0819642b5c9333cE0C6",
+    "asset": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "decimals": 18,
+    "name": "Aave v3 WETH",
+    "symbol": "waWETH",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0xA985146C2a239808449C38193A2C301f38A6b8D1",
+    "asset": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "decimals": 18,
+    "name": "Aave v3 DAI",
+    "symbol": "waDAI",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0xCbDdBE035B58cDdEb7311788e9ebCB1E8CCecF01",
+    "asset": "0x93b346b6BC2548dA6A1E7d98E9a421B42541425b",
+    "decimals": 18,
+    "name": "Aave v3 LUSD",
+    "symbol": "waLUSD",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0xC3913CfEdBB7548E125F125e147Ac8C754AD2BA8",
+    "asset": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "decimals": 18,
+    "name": "Aave v3 ARB",
+    "symbol": "waARB",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x2D0483FefAbA4325c7521539a3DFaCf94A19C472",
+    "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "decimals": 18,
+    "name": "Fraxlend Interest Bearing FRAX (Arbitrum) - 1",
+    "symbol": "fFRAX(ARB)-1",
+    "protocol": "assets/protocols/fraxlend.json"
+  },
+  {
+    "address": "0x6076ebDFE17555ed3E6869CF9C373Bbd9aD55d38",
+    "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "decimals": 18,
+    "name": "Fraxlend Interest Bearing FRAX (GMX) - 2",
+    "symbol": "fFRAX(GMX)-2",
+    "protocol": "assets/protocols/fraxlend.json"
+  },
+  {
+    "address": "0x9168AC3a83A31bd85c93F4429a84c05db2CaEF08",
+    "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "decimals": 18,
+    "name": "Fraxlend Interest Bearing FRAX (Wrapped BTC) - 3",
+    "symbol": "fFRAX(WBTC)-3",
+    "protocol": "assets/protocols/fraxlend.json"
+  },
+  {
+    "address": "0xc37Aa0cF7E45fe0e811d99062020080147970A1a",
+    "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "decimals": 18,
+    "name": "Fraxlend Interest Bearing FRAX (Staked Frax Ether) - 4",
+    "symbol": "fFRAX(sfrxETH)-4",
+    "protocol": "assets/protocols/fraxlend.json"
+  },
+  {
+    "address": "0xC47bB288178Ea40bF520a91826a3DEE9e0DbFA4C",
+    "asset": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "decimals": 18,
+    "name": "Real Yield ETH",
+    "symbol": "RYETH",
+    "protocol": "assets/protocols/sturdy.json"
+  },
+  {
+    "address": "0x392B1E6905bb8449d26af701Cdea6Ff47bF6e5A8",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "decimals": 6,
+    "name": "Real Yield USD",
+    "symbol": "RYUSD",
+    "protocol": "assets/protocols/sturdy.json"
+  },
+  {
+    "address": "0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92",
+    "asset": "0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef",
+    "decimals": 18,
+    "name": "Staked USDX",
+    "symbol": "sUSDX",
+    "protocol": "assets/protocols/usdx.json"
+  },
+  {
+    "address": "0x04419d3509f13054f60d253E0c79491d9E683399",
+    "asset": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "decimals": 18,
+    "name": "Main WETH v3",
+    "symbol": "dWETHV3",
+    "protocol": "assets/protocols/gearbox.json"
+  },
+  {
+    "address": "0x890A69EF363C9c7BdD5E36eb95Ceb569F63ACbF6",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "decimals": 6,
+    "name": "Main USDC v3",
+    "symbol": "dUSDCV3",
+    "protocol": "assets/protocols/gearbox.json"
+  },
+  {
+    "address": "0xa76c604145D7394DEc36C49Af494C144Ff327861",
+    "asset": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+    "decimals": 6,
+    "name": "Main USDC.e v3",
+    "symbol": "dUSDCV3",
+    "protocol": "assets/protocols/gearbox.json"
+  },
+  {
+    "address": "0xC47bB288178Ea40bF520a91826a3DEE9e0DbFA4C",
+    "asset": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "decimals": 18,
+    "name": "Real Yield ETH",
+    "symbol": "RYETH",
+    "protocol": "assets/protocols/sommelier.json"
+  },
+  {
+    "address": "0x392B1E6905bb8449d26af701Cdea6Ff47bF6e5A8",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "decimals": 6,
+    "name": "Real Yield USD",
+    "symbol": "RYUSD",
+    "protocol": "assets/protocols/sommelier.json"
+  },
+  {
+    "address": "0xe1c410eefAeBB052E17E0cB6F1c3197F35765Aab",
+    "asset": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "decimals": 18,
+    "name": "Yield Chaser ETH",
+    "symbol": "ycETH",
+    "protocol": "assets/protocols/goat.json"
+  },
+  {
+    "address": "0x0df2e3a0b5997AdC69f8768E495FD98A4D00F134",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "decimals": 18,
+    "name": "Yield Chaser USDC",
+    "symbol": "ycUSDC",
+    "protocol": "assets/protocols/goat.json"
+  },
+  {
+    "address": "0x3782bA74E32021dD2e2A7ADE5118E83440EE24E4",
+    "asset": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "decimals": 18,
+    "name": "Yield Chaser USDT",
+    "symbol": "ycUSDT",
+    "protocol": "assets/protocols/goat.json"
+  },
+  {
+    "address": "0x8a1eF3066553275829d1c0F64EE8D5871D5ce9d3",
+    "asset": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+    "decimals": 18,
+    "name": "Yield Chaser Silo USDC",
+    "symbol": "ycsUSDX",
+    "protocol": "assets/protocols/goat.json"
+  },
+  {
+    "address": "0xA7781F1D982Eb9000BC1733E29Ff5ba2824cDBE5",
+    "asset": "0x498Bf2B1e120FeD3ad3D42EA2165E9b73f99C1e5",
+    "decimals": 18,
+    "name": "Yield Chaser crvUSD",
+    "symbol": "ycCRVUSD",
+    "protocol": "assets/protocols/goat.json"
+  },
+  {
+    "address": "0x878b7897C60fA51c2A7bfBdd4E3cB5708D9eEE43",
+    "asset": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "decimals": 18,
+    "name": "Yield Chaser Silo ETH",
+    "symbol": "ycsETH",
+    "protocol": "assets/protocols/goat.json"
+  },
+  {
+    "address": "0xa91267A25939b2B0f046013fbF9597008F7F014b",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "decimals": 8,
+    "name": "IPOR USDC Arbitrum Optimizer",
+    "symbol": "ipUSDCfusion",
+    "protocol": "assets/protocols/ipor.json"
+  }
+]

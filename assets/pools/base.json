@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0x66fa569c8aa30894818043ff5e90656d8568208ee73c55cc812bdbb0b475fb71",
+    "name": "WETH-USDC 1.0"
+  },
+  {
+    "id": "0x92ad1a9b45a77f64736356a945c3129378657b7dbb8009a6bae713f825baf943",
+    "name": "Experiment A: ETH-USDC"
+  },
+  {
+    "id": "0x01c0cda2938d0c4da14ee3c377d2b6e5eb19c178add178e8261a0478259ef411",
+    "name": "Experiment B: ETH-USDC"
+  },
+  {
+    "id": "0x1dc0be6642905b4655d3a802dacadc462c9f2db685b766649c41580e27d1e08a",
+    "name": "Experiment C: ETH-USDC"
+  },
+  {
+    "id": "0xd9b839216d6f644ca916ecf48e6be9d677d2ecad5723b3ef3301796c44fead41",
+    "name": "Experiment D: ETH-USDC"
+  },
+  {
+    "id": "0x6a74303037cc9ac335af4b2c8507d7140209ebfa3caab324cc11241f71f9ac8a",
+    "name": "Experiment E: ETH-USDC"
+  },
+  {
+    "id": "0x4e822876bb4d6768c8c2a62b09a49a6502ea3d36ac28da281769cbd3616020cf",
+    "name": "Experiment F: ETH-USDC"
+  },
+  {
+    "id": "0xc9b2de76cc9377bcf78f843e1a14ccb63f213075421c677fa3586ed912cf67ea",
+    "name": "Experiment G: ETH-USDC"
+  },
+  {
+    "id": "0x7e60568fc1f917dfc00357ba35e61d239ee324d7b1f865282143ba290aa513e6",
+    "name": "Experiment H: ETH-USDC"
+  }
+]
